@@ -1,0 +1,58 @@
+1. Data Exploration and Preparation
+"Summarize the key steps to clean and transform data using Power Query Editor in Power BI."
+"Explain how to merge two datasets in Power BI using Power Query."
+"How do I handle missing or null values in Power BI?"\
+
+
+2. Visualization Suggestions
+"Suggest the best chart types to visualize sales data by region and product category in Power BI."
+"What visualizations can I use to compare year-over-year performance in Power BI?"
+"Explain how to create a dynamic line chart that shows trend changes over time in Power BI."
+
+
+3. DAX Formulas and Functions
+"Provide a DAX formula example that calculates the running total in Power BI."
+"Explain the difference between CALCULATE and FILTER functions in DAX."
+"How can I write a DAX formula to compare sales from this year to the previous year in Power BI?"
+
+
+4. Customizing Reports
+"Walk me through creating a custom tooltip in Power BI."
+"How do I implement row-level security (RLS) in a Power BI report?"
+"Explain how to use bookmarks to create a story-like narrative with multiple report views in Power BI."
+
+
+5. Power BI Service & Sharing
+"What are the best practices for publishing and sharing reports via Power BI Service?"
+"Explain how I can set up automatic data refresh for a Power BI report."
+"How can I share a Power BI dashboard with external users who don’t have Power BI licenses?"
+
+
+6. Interactive Reports
+"How do I add drill-through capabilities to a Power BI report?"
+"Explain how to use slicers and filters effectively in Power BI to create interactive dashboards."
+"Walk me through setting up a dynamic date range filter in Power BI."
+
+
+7. Troubleshooting Common Issues
+"Why isn’t my Power BI report reflecting the latest data even though the dataset is updated?"
+"Explain how to troubleshoot slow performance in Power BI dashboards."
+"What steps should I take if my DAX measure isn’t calculating as expected?"
+
+
+8. Power BI and Excel Integration
+"How can I import an Excel file into Power BI and keep it synchronized?"
+"Explain the benefits of using Power BI over traditional Excel dashboards."
+"How do I export visualizations from Power BI to Excel?"
+
+
+9. Advanced Analytics
+"What are the steps to enable and use 'What-if' parameters in Power BI for scenario analysis?"
+"Explain how to use Power BI to forecast future trends using historical data."
+"How can I integrate Python or R in Power BI for advanced analytics?"
+
+
+10. Real-Time Dashboards
+"How can I create a real-time dashboard in Power BI using streaming data?"
+"Explain the steps to connect Power BI to a live database for real-time updates."
+"How do I display live Twitter data in Power BI?"
